@@ -1,8 +1,0 @@
-https://github.com/LJANGN/House-Prices-Advanced-Regression-Techniques/blob/master/House%20Prices_Advanced%20Regression%20Techniques.ipynb
-
-https://github.com/SrikanthVelpuri/House-Prices-Advanced-Regression-Techniques/blob/master/House%20Price%20Prediction.ipynb
-
-
-
-
-
